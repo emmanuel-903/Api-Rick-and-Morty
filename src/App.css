@@ -1,0 +1,7 @@
+body {
+    background-image: url('../src/imgenes/fondo_rick.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
